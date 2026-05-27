@@ -1,0 +1,7 @@
+# /etc/zabbix/azure.conf
+# chmod 640 | chown root:zabbix
+
+AZURE_TENANT_ID="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+AZURE_CLIENT_ID="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+AZURE_CLIENT_SECRET="sua-senha-aqui"
+AZURE_SUBSCRIPTION_ID="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
